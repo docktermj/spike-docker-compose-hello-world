@@ -1,0 +1,1 @@
+# spike-docker-compose-hello-world
